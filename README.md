@@ -11,3 +11,5 @@ This Website is free to use (if you want so)
 <a href="https://github.com/tomikya">• tomikya</a>
 
 For being my Partner in the olympic of Olympicad 2024
+
+&copy; Website by <a href="">Vynts</a>
