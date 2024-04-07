@@ -1,5 +1,4 @@
 <h2>Website For Training</h2>
-<hr>
 <h4>(Majelis Dikdasmen PP Muhammadiyah)</h4>
 
 This Website Is a Training For Olympic Competitions / Olympicad 2024
