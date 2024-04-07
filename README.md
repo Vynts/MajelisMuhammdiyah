@@ -1,7 +1,7 @@
 <h2>Website For Training</h2>
 <h4>(Majelis Dikdasmen PP Muhammadiyah)</h4>
 
-This Website Is Training For Olympic Competitions / Olympicad 2024
+This Website Is a Training For Olympic Competitions / Olympicad 2024
 
 This Website is free to use (if you want so)
 <p font-weight: bold;>This is not 100% done Coded</p>
