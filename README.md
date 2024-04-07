@@ -7,4 +7,4 @@ This Website is free to use (if you want so)
 
 <h2>Special Thanks To</h2>
 
-<a href="tomikya"></a>
+<a href="">@tomikya</a>
