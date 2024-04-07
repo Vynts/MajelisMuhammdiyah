@@ -8,3 +8,5 @@ This Website is free to use (if you want so)
 <h2>Special Thanks To</h2>
 
 <a href="https://github.com/tomikya">• tomikya</a>
+
+For being my Partner in the olympic of Olympicad 2024
