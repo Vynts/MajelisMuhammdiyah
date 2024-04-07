@@ -3,5 +3,5 @@
 This Website Is Training For Olympic Competitions / Olympicad 2024
 
 This Website is free to use (if you want so)
-<p font-weight: bold;>not 100% done</p>
+<p font-weight: bold;>This is not 100% done</p>
 
