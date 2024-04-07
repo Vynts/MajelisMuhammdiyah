@@ -1,5 +1,5 @@
 <h2>Website For Training</h2>
-<p font-size: 20px;>(Majelis Dikdasmen PP Muhammadiyah)</p>
+<h4>(Majelis Dikdasmen PP Muhammadiyah)</h4>
 
 This Website Is Training For Olympic Competitions / Olympicad 2024
 
