@@ -13,3 +13,4 @@ This Website is free to use (if you want so)
 For being my Partner in the olympic of Olympicad 2024
 
 &copy; Website by <a href="https://github.com/Vynts">Vynts</a>
+<hr>
