@@ -1,4 +1,5 @@
 <h2>Website For Training</h2>
+<hr>
 <h4>(Majelis Dikdasmen PP Muhammadiyah)</h4>
 
 This Website Is a Training For Olympic Competitions / Olympicad 2024
@@ -6,6 +7,7 @@ This Website Is a Training For Olympic Competitions / Olympicad 2024
 This Website is free to use (if you want so)
 <p font-weight: bold;>This is not 100% done Coded</p>
 
+<hr>
 <h2><i>Special Thanks To</i></h2>
 
 <a href="https://github.com/tomikya">• tomikya</a>
