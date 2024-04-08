@@ -12,6 +12,6 @@ This is not 100% done Coded
 <li><a href="https://github.com/tomikya">tomikya</a></li>
 <br>
 For being my Partner in the olympic of Olympicad 2024
-
-&copy; Website by <a href="https://github.com/Vynts">Vynts</a>
+<br> <br>
+<h2>&copy; Website by <a href="https://github.com/Vynts">Vynts</a></h2>
 <hr>
