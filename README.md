@@ -8,7 +8,7 @@ This Website is free to use (if you want so)<h5>This is not 100% done Coded</h5>
 <hr>
 <h2><i>Special Thanks To</i></h2>
 
-<a href="https://github.com/tomikya">• tomikya</a>
+<li><a href="https://github.com/tomikya">tomikya</a></li>
 
 For being my Partner in the olympic of Olympicad 2024
 
