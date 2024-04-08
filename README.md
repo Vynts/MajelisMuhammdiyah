@@ -3,8 +3,7 @@
 
 This Website Is a Training For Olympic Competitions / Olympicad 2024
 
-This Website is free to use (if you want so)
-<h5>This is not 100% done Coded</h5>
+This Website is free to use (if you want so)<h5>This is not 100% done Coded</h5>
 
 <hr>
 <h2><i>Special Thanks To</i></h2>
