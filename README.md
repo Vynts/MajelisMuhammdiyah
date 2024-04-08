@@ -13,5 +13,5 @@ This is not 100% done Coded
 <br>
 For being my Partner in the olympic of Olympicad 2024
 <br> <br>
-<h2>&copy; Website by <a href="https://github.com/Vynts">Vynts</a></h2>
+<h3>&copy; Website by <a href="https://github.com/Vynts">Vynts</a></h3>
 <hr>
